@@ -11,7 +11,8 @@ def white
 end
 
 def black
-  { gui: 'Black', cterm: 16 }
+  # This is a hack. With #FFFFFF, the background is white.
+  { gui: '#fff', cterm: 16 }
 end
 
 def bgray
