@@ -3,7 +3,7 @@
 ### Installation
 
     cd ~/.vim/bundle
-    git clone https://github.com/fxn/vim-monochrome.git
+    git clone https://github.com/ralt/vim-monochrome.git
 
 ### Configuration
 
